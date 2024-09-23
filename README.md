@@ -1,8 +1,5 @@
 # Reinsurance-Re-Claim-Analysis
 ---
-
-# Renaissance Re Reinsurance Analysis
-
 ## Overview
 
 Renaissance Re insures a variety of commercial and residential properties. Each policy covers a combination of building value, contents value, and business interruption costs. Policyholders are responsible for a deductible on a loss, which is retained by them. 
